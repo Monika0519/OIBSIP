@@ -15,7 +15,7 @@ Output:
 https://www.linkedin.com/posts/monika-pandey-426756195_level2-task2-oasisinfobyte-activity-6983439032957431808-L_vm?utm_source=share&utm_medium=member_desktop
 ![image](https://user-images.githubusercontent.com/87168562/194104271-b3de9727-db8b-46ae-9deb-387799c4ec3a.png)
 
-#Task 3: A Basic To-Do WebApp
+# Task 3: A Basic To-Do WebApp
 Languages: HTML, CSS, JavaScript
 Description: A basic To-Do webapp that enables a user to add daily tasks.
 Output:
